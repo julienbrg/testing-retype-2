@@ -1,0 +1,11 @@
+input: .
+output: .retype
+url: https://github.com/julienbrg/testing-retype-2
+branding:
+  title: Test
+  label: Docs
+links:
+  - text: Website
+    link: https://github.com/julienbrg/testing-retype-2
+footer:
+  copyright: ""
